@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #473b31;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.navbar-cont{
+    background-image: linear-gradient( to right, #e69c72, #bbfff6);
+    height: 80px;
+    width: 1410px;
+    padding: 20px 0px 0px 20px;
+}
